@@ -1,1 +1,1 @@
-# deplot-template-repo
+# etech-deploy-template
